@@ -1,0 +1,8 @@
+Dependency
+----------
+1. testcontainers (Service connection & local development support) - you can use
+   Testcontainers to spin up a real MySQL Docker container for
+   integration testing — no need to install MySQL locally for tests
+
+2. actuator - gives you ready-to-use endpoints for monitoring and managing your app — like health checks,
+   metrics, environment info, etc.
