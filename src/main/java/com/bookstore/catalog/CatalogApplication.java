@@ -9,5 +9,6 @@ public class CatalogApplication {
     public static void main(String[] args) {
         SpringApplication.run(CatalogApplication.class, args);
         // minimal change 2
+        // dummy change
     }
 }
