@@ -6,3 +6,15 @@ Dependency
 
 2. actuator - gives you ready-to-use endpoints for monitoring and managing your app — like health checks,
    metrics, environment info, etc.
+
+3. springdoc-openapi-starter-webmvc-ui   - used to auto-generate and expose Swagger UI for your 
+   Spring Boot REST APIs using the Springdoc OpenAPI project
+
+Plugins
+--------
+1. spotless maven plugin - used to automatically format your code, 
+   enforce consistent style, and even check formatting during builds.
+
+2. git-commit-id-maven-plugin
+
+3. 
