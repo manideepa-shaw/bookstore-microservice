@@ -6,6 +6,7 @@ on:
       - catalog/**
     branches:
       - 'main'
+      - 'master'
   pull_request:
     branches: [main]
 
